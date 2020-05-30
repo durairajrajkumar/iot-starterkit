@@ -6,7 +6,7 @@
     "license": "SEE LICENSE IN LICENSE",
     "dependencies": {
         "mg-api-node": "^1.2.0",
-        "node-persist": "^3.0.4",
+        "node-persist": "^3.0.5",
         "sap-iots-device-rest": "file:../sap-iots-device-rest",
         "swagger-client": "^3.8.25"
     },
