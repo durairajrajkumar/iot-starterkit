@@ -19,7 +19,7 @@
 		<sdk.version>RELEASE</sdk.version>
 		<gson.version>2.2.4</gson.version>
 		<paho.version>1.1.0</paho.version>
-		<codec.version>1.9</codec.version>
+		<codec.version>1.14</codec.version>
 		<junit.version>4.12</junit.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
