@@ -8,7 +8,7 @@
         "mg-api-node": "^1.2.0",
         "node-persist": "^3.0.4",
         "sap-iots-device-rest": "file:../sap-iots-device-rest",
-        "swagger-client": "^3.8.25"
+        "swagger-client": "^3.10.2"
     },
     "scripts": {
         "start": "node geotab-to-sap-cloud.js"
