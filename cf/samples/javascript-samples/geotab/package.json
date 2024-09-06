@@ -6,9 +6,9 @@
     "license": "SEE LICENSE IN LICENSE",
     "dependencies": {
         "mg-api-node": "^1.2.0",
-        "node-persist": "^3.0.4",
+        "node-persist": "^3.1.0",
         "sap-iots-device-rest": "file:../sap-iots-device-rest",
-        "swagger-client": "^3.8.25"
+        "swagger-client": "^3.29.1"
     },
     "scripts": {
         "start": "node geotab-to-sap-cloud.js"
